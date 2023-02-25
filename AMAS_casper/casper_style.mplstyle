@@ -12,7 +12,8 @@ axes.linewidth : 1.5
 axes.spines.top : True
 axes.spines.right : True
 axes.spines.bottom : True
-axes.spines.left : True
+axes.spines.left : True                                   
+
 
 # GRID
 axes.grid : True

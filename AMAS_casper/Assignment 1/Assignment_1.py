@@ -454,7 +454,7 @@ text = text.replace(')', '')
 text = text.replace('˜', '')
 text = text.replace('ˇ', '')
 text = text.replace('*', '')
-text = text.replace(r'\x3', '')
+text = text.replace(r'\x03', '')
 text = text.replace('JR.','JR')
 
 text = text.replace('MMA — LIGO-P- V','')
